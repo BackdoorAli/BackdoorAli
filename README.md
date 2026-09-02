@@ -22,9 +22,41 @@
 <h3 align="center">Software</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CLOUD_C2-2C3E50?style=for-the-badge&logo=cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/Payload_Studio_Pro-2C3E50?style=for-the-badge">
-  <img src="https://img.shields.io/badge/DuckyScript-2C3E50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
+  <img src="https://img.shields.io/badge/GrapheneOS-0053A6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tails_OS-56347C?style=for-the-badge&logo=tails&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/UNIX-111111?style=for-the-badge&logo=unix&logoColor=white">
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
+  <img src="https://img.shields.io/badge/CLOUD_C2-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Payload_Studio_Pro-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DuckyScript-111111?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FireCompass-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Invicti-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/vPenTest-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OWASP_ZAP-111111?style=for-the-badge&logo=owasp&logoColor=white">
+  <img src="https://img.shields.io/badge/Intruder-111111?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rapid7-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Core_Security-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Detectify-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cobalt-111111?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bugcrowd-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Intigriti-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HackerOne-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hack_The_Box-111111?style=for-the-badge">
 </p>
 
 <h3 align="center">Gadgets</h3>
