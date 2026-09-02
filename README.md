@@ -17,7 +17,7 @@
 
 BackdoorAli@Netrunner:~$ whoami
 
-> BackdoorAli
+> BackdoorAli aka NotAlita
 
 BackdoorAli@Netrunner:~$ id
 
