@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Darktrace-00AEEF?style=for-the-badge">
 </p>
 
-<h2 align="center">🎓 Certifications</h2>
+<h2 align="center">Certifications</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white">
