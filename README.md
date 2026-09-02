@@ -31,7 +31,7 @@ BackdoorAli@Netrunner:~$ uptime
 
 BackdoorAli@Netrunner:~$ ls ~/skills
 
-> Languages & Programming
+> Programming Languages
 
 > Software & Gadgets
 
