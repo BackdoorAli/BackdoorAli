@@ -57,6 +57,8 @@
   <img src="https://img.shields.io/badge/Darktrace-00AEEF?style=for-the-badge">
 </p>
 
+<img src="https://img.shields.io/badge/Retrieval--Augmented_Generation-6A5ACD?style=for-the-badge">
+
 <h2 align="center">Certifications</h2>
 
 <p align="center">
