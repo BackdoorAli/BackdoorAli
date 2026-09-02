@@ -42,9 +42,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Packet_Squirrel_Mark_II-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LAN_Turtle-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Flipper_Zero-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Packet_Squirrel_Mark_II-2C3E50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LAN_Turtle-2C3E50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Flipper_Zero-2C3E50?style=for-the-badge">
 </p>
 
 <p align="center">
