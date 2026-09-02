@@ -7,12 +7,12 @@
 </p>
 
 ```text
-[+] Establishing secure connection...
-[+] Authentication successful.
-[+] Session initialised.
+- Establishing secure connection...
+- Authentication successful.
+- Session initialised.
 
 ┌─────────────────────────────────────────────┐
-│             BACKDOORALI TERMINAL            │
+│             Netrunner's Terminal            │
 └─────────────────────────────────────────────┘
 
 BackdoorAli@Netrunner:~$ whoami
