@@ -6,7 +6,7 @@
   <img src="lucy.gif" width="350">
 </p>
 
-<h2 align="center">Languages & Programming</h2>
+<h2 align="center">Programming Languages</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white">
