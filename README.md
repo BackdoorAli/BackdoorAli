@@ -56,3 +56,19 @@
   <img src="https://img.shields.io/badge/Microsoft_Security_Copilot-5E5CE6?style=for-the-badge">
   <img src="https://img.shields.io/badge/Darktrace-00AEEF?style=for-the-badge">
 </p>
+
+<h2 align="center">🎓 Certifications</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/CompTIA_Network%2B-EA1D25?style=for-the-badge&logo=comptia&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA_Security%2B-EA1D25?style=for-the-badge&logo=comptia&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Offensive_Security_OSCP%2B-000000?style=for-the-badge&logo=offsec&logoColor=white">
+</p>
