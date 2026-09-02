@@ -58,7 +58,11 @@
 </p>
 
 <p align="center">
+
   <img src="https://img.shields.io/badge/Retrieval--Augmented_Generation-6A5ACD?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/Dark_Web_Security_Research-4B0082?style=for-the-badge">
+
 </p>
 
 <h2 align="center">Certifications</h2>
