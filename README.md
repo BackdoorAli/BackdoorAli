@@ -29,7 +29,7 @@ BackdoorAli@Netrunner:~$ uptime
 
 > Online
 
-BackdoorAli@NightCity:~$ _
+BackdoorAli@Netrunner:~$ _
 ```
 
 <h2 align="center">Programming Languages</h2>
