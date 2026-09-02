@@ -27,7 +27,19 @@ BackdoorAli@Netrunner:~$ id
 
 BackdoorAli@Netrunner:~$ uptime
 
-> Online
+> System Operational
+
+BackdoorAli@Netrunner:~$ ls ~/skills
+
+> Languages & Programming
+
+> Software & Gadgets
+
+> Libraries & Machine Learning
+
+> AI & Security
+
+> Certifications
 
 BackdoorAli@Netrunner:~$ _
 ```
