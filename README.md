@@ -16,3 +16,30 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
 </p>
+
+<h2 align="center">🧠 Libraries & Machine Learning</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+</p>
+
+<h2 align="center">🤖 AI & Security</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Adversarial_Machine_Learning-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LLM_Security-FF6F00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7B68EE?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI--Assisted_Reconnaissance-DC143C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Security_Data_Analysis-2F4F4F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Log_Mining-696969?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PentestGPT-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Microsoft_Security_Copilot-5E5CE6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Darktrace-00AEEF?style=for-the-badge">
+</p>
