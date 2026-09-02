@@ -22,23 +22,23 @@
 <h3 align="center">Software</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CLOUD_C2-111111?style=for-the-badge&logo=cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/Payload_Studio_Pro-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/DuckyScript-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CLOUD_C2-2C3E50?style=for-the-badge&logo=cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/Payload_Studio_Pro-2C3E50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DuckyScript-2C3E50?style=for-the-badge">
 </p>
 
 <h3 align="center">Gadgets</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WiFi_Pineapple_Pager-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/WiFi_Pineapple_Mark_VII-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/USB_Rubber_Ducky-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/WiFi_Pineapple_Pager-2C3E50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/WiFi_Pineapple_Mark_VII-2C3E50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/USB_Rubber_Ducky-2C3E50?style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bash_Bunny-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/O.MG-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Shark_Jack-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Bash_Bunny-2C3E50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/O.MG-2C3E50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Shark_Jack-2C3E50?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -48,8 +48,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Meshtastic-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Raspberry_Pi-111111?style=for-the-badge&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/Meshtastic-2C3E50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Raspberry_Pi-2C3E50?style=for-the-badge&logo=raspberrypi&logoColor=white">
 </p>
 
 <h2 align="center">Libraries & Machine Learning</h2>
