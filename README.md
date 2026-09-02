@@ -22,6 +22,19 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scapy-1A1A1A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Pwntools-000000?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Impacket-5C2D91?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Paramiko-2C3E50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
 
 <h2 align="center">AI & Security</h2>
