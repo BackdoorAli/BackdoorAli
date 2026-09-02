@@ -64,26 +64,26 @@
 <h3 align="center">Gadgets</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WiFi_Pineapple_Pager-2C3E50?style=for-the-badge">
-  <img src="https://img.shields.io/badge/WiFi_Pineapple_Mark_VII-2C3E50?style=for-the-badge">
-  <img src="https://img.shields.io/badge/USB_Rubber_Ducky-2C3E50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/WiFi_Pineapple_Pager-696969?style=for-the-badge">
+  <img src="https://img.shields.io/badge/WiFi_Pineapple_Mark_VII-696969?style=for-the-badge">
+  <img src="https://img.shields.io/badge/USB_Rubber_Ducky-696969?style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bash_Bunny-2C3E50?style=for-the-badge">
-  <img src="https://img.shields.io/badge/O.MG-2C3E50?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Shark_Jack-2C3E50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Bash_Bunny-696969?style=for-the-badge">
+  <img src="https://img.shields.io/badge/O.MG-696969?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Shark_Jack-696969?style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Packet_Squirrel_Mark_II-2C3E50?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LAN_Turtle-2C3E50?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Flipper_Zero-2C3E50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Packet_Squirrel_Mark_II-696969?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LAN_Turtle-696969?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Flipper_Zero-696969?style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Meshtastic-2C3E50?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Raspberry_Pi-2C3E50?style=for-the-badge&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/Meshtastic-696969?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Raspberry_Pi-696969?style=for-the-badge&logo=raspberrypi&logoColor=white">
 </p>
 
 <h2 align="center">Libraries & Machine Learning</h2>
