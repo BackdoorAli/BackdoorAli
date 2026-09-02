@@ -6,7 +6,7 @@
   <img src="lucy.gif" width="350">
 </p>
 
-<h2 align="center">💻 Languages & Programming</h2>
+<h2 align="center">Languages & Programming</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -17,14 +17,14 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
 </p>
 
-<h2 align="center">🧠 Libraries & Machine Learning</h2>
+<h2 align="center">Libraries & Machine Learning</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 </p>
 
-<h2 align="center">🤖 AI & Security</h2>
+<h2 align="center">AI & Security</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Adversarial_Machine_Learning-8A2BE2?style=for-the-badge">
