@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/PentestGPT-111111?style=for-the-badge">
   <img src="https://img.shields.io/badge/Microsoft_Security_Copilot-5E5CE6?style=for-the-badge">
   <img src="https://img.shields.io/badge/Darktrace-00AEEF?style=for-the-badge">
+  
   <img src="https://img.shields.io/badge/Retrieval--Augmented_Generation-6A5ACD?style=for-the-badge">
 </p>
 
