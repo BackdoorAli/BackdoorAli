@@ -6,6 +6,32 @@
   <img src="lucy.gif" width="350">
 </p>
 
+```text
+[+] Establishing secure connection...
+[+] Authentication successful.
+[+] Session initialised.
+
+┌─────────────────────────────────────────────┐
+│             BACKDOORALI TERMINAL            │
+└─────────────────────────────────────────────┘
+
+BackdoorAli@Netrunner:~$ whoami
+
+> BackdoorAli
+
+BackdoorAli@Netrunner:~$ id
+
+> Pentester
+> Cybersecurity Analyst
+> Data Analyst
+
+BackdoorAli@Netrunner:~$ uptime
+
+> Online
+
+BackdoorAli@NightCity:~$ _
+```
+
 <h2 align="center">Programming Languages</h2>
 
 <p align="center">
