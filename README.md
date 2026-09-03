@@ -71,10 +71,16 @@ BackdoorAli@Netrunner:~$ _
 
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/UNIX-2C3E50?style=for-the-badge&logo=unix&logoColor=white">
-  <img src="https://img.shields.io/badge/CLOUD_C2-2C3E50?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Payload_Studio_Pro-2C3E50?style=for-the-badge">
-  <img src="https://img.shields.io/badge/DuckyScript-2C3E50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/UNIX-111111?style=for-the-badge&logo=unix&logoColor=white">
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge">
+  <img src="https://img.shields.io/badge/VMware_Workstation-607078?style=for-the-badge">
+  <img src="https://img.shields.io/badge/UTM-111111?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CLOUD_C2-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Payload_Studio_Pro-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DuckyScript-111111?style=for-the-badge">
 </p>
 
 <p align="center">
