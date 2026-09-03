@@ -205,5 +205,5 @@ BackdoorAli@Netrunner:~$ _
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Offensive_Security_OSCP%2B-000000?style=for-the-badge&logo=offsec&logoColor=white">
+  <img src="https://img.shields.io/badge/Offensive_Security_OSCP%2B-013243?style=for-the-badge&logo=offsec&logoColor=white">
 </p>
