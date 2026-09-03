@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="lucy.gif" width="350">
+  <img src="netrunner-terminal.gif"
+       alt="BackdoorAli Netrunner Terminal"
+       width="100%">
 </p>
 
 ```text
