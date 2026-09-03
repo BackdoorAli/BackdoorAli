@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="netrunner-terminal.gif"
+  <img src="netrunner-terminal-final.gif"
        alt="BackdoorAli Netrunner Terminal"
        width="100%">
 </p>
