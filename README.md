@@ -8,43 +8,6 @@
        width="100%">
 </p>
 
-```text
-- Establishing secure connection...
-- Authentication successful.
-- Session initialised.
-
-┌─────────────────────────────────────────────┐
-│             Netrunner's Terminal            │
-└─────────────────────────────────────────────┘
-
-BackdoorAli@Netrunner:~$ whoami
-
-> BackdoorAli aka NotAlita
-
-BackdoorAli@Netrunner:~$ id
-
-> Pentester
-> Cybersecurity Analyst
-> Data Analyst
-
-BackdoorAli@Netrunner:~$ uptime
-
-> System Operational
-
-BackdoorAli@Netrunner:~$ ls ~/skills
-
-> Programming Languages
-
-> Software & Gadgets
-
-> Libraries & Machine Learning
-
-> AI & Security
-
-> Certifications
-
-BackdoorAli@Netrunner:~$ _
-```
 
 <h2 align="center">Programming Languages</h2>
 
