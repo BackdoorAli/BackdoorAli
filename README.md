@@ -70,11 +70,11 @@ BackdoorAli@Netrunner:~$ _
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/UNIX-111111?style=for-the-badge&logo=unix&logoColor=white">
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge">
-  <img src="https://img.shields.io/badge/VMware_Workstation-607078?style=for-the-badge">
-  <img src="https://img.shields.io/badge/UTM-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/macOS-8B5CF6?style=for-the-badge&logo=apple&logoColor=white">
+  <img src="https://img.shields.io/badge/UNIX-2563EB?style=for-the-badge&logo=unix&logoColor=white">
+  <img src="https://img.shields.io/badge/VMware-607D8B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/VMware_Workstation-455A64?style=for-the-badge">
+  <img src="https://img.shields.io/badge/UTM-3B82F6?style=for-the-badge">
 </p>
 
 <br>
@@ -82,9 +82,9 @@ BackdoorAli@Netrunner:~$ _
 <h3 align="center">Hak5 Software</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CLOUD_C2-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Payload_Studio_Pro-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/DuckyScript-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CLOUD_C2-7C3AED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Payload_Studio_Pro-A855F7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DuckyScript-C026D3?style=for-the-badge">
 </p>
 
 <br>
@@ -92,18 +92,18 @@ BackdoorAli@Netrunner:~$ _
 <h3 align="center">Security Platforms & Tools</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FireCompass-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Invicti-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/vPenTest-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/OWASP_ZAP-111111?style=for-the-badge&logo=owasp&logoColor=white">
-  <img src="https://img.shields.io/badge/Intruder-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FireCompass-F97316?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Invicti-E85D04?style=for-the-badge">
+  <img src="https://img.shields.io/badge/vPenTest-F59E0B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OWASP_ZAP-FF8C00?style=for-the-badge&logo=owasp&logoColor=white">
+  <img src="https://img.shields.io/badge/Intruder-EA580C?style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rapid7-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Core_Security-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Detectify-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cobalt-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Rapid7-F97316?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Core_Security-D97706?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Detectify-FBBF24?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cobalt-DC2626?style=for-the-badge">
 </p>
 
 <br>
@@ -111,10 +111,10 @@ BackdoorAli@Netrunner:~$ _
 <h3 align="center">Bug Bounty & Security Platforms</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bugcrowd-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Intigriti-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/HackerOne-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Hack_The_Box-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Bugcrowd-22C55E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Intigriti-14B8A6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HackerOne-16A34A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hack_The_Box-10B981?style=for-the-badge">
 </p>
 
 <br>
@@ -122,27 +122,28 @@ BackdoorAli@Netrunner:~$ _
 <h3 align="center">Gadgets</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WiFi_Pineapple_Pager-808080?style=for-the-badge">
-  <img src="https://img.shields.io/badge/WiFi_Pineapple_Mark_VII-808080?style=for-the-badge">
-  <img src="https://img.shields.io/badge/USB_Rubber_Ducky-808080?style=for-the-badge">
+  <img src="https://img.shields.io/badge/WiFi_Pineapple_Pager-6B7280?style=for-the-badge">
+  <img src="https://img.shields.io/badge/WiFi_Pineapple_Mark_VII-64748B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/USB_Rubber_Ducky-78716C?style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bash_Bunny-808080?style=for-the-badge">
-  <img src="https://img.shields.io/badge/O.MG-808080?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Shark_Jack-808080?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Bash_Bunny-57534E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/O.MG-71717A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Shark_Jack-52525B?style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Packet_Squirrel_Mark_II-808080?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LAN_Turtle-808080?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Flipper_Zero-808080?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Packet_Squirrel_Mark_II-475569?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LAN_Turtle-4B5563?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Flipper_Zero-3F6212?style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Meshtastic-808080?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Raspberry_Pi-808080?style=for-the-badge&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/Meshtastic-0F766E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51F5D?style=for-the-badge&logo=raspberrypi&logoColor=white">
 </p>
+
 <h2 align="center">Libraries & Machine Learning</h2>
 
 <p align="center">
