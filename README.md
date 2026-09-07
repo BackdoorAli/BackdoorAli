@@ -24,7 +24,7 @@
 
 <h2 align="center">Software & Gadgets</h2>
 
-<h3 align="center">Operating Systems & Virtualisation</h3>
+<h3 align="center">Operating Systems, Virtualisation & Local AI</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
