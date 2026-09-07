@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/VMware-607D8B?style=for-the-badge">
   <img src="https://img.shields.io/badge/VMware_Workstation-455A64?style=for-the-badge">
   <img src="https://img.shields.io/badge/UTM-3B82F6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white">
 </p>
 
 <br>
